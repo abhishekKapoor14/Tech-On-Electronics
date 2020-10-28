@@ -1,0 +1,16 @@
+
+
+.t1 {
+    border: 5px solid black;
+    padding: 1px 5px;
+    font-size: 50px;
+   
+   min-width: 20%;
+   max-width: 100%;
+}
+.t2
+{
+ border: 2px solid black;
+    padding: 1px 5px;
+    font-size: 50px;
+}
